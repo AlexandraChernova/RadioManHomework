@@ -1,3 +1,4 @@
+package ru.netology.radio.services;
 public class Radio {
     public int currentStation;
     public int currentVolume;
